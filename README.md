@@ -1,4 +1,4 @@
-# Bakken & Bæck's iOS Playbook
+# Ways' iOS Style guide
 
 Consistency is 👸.
 
@@ -7,3 +7,7 @@ Consistency is 👸.
 * [Components](/COMPONENTS.md)
 * [Project Structure](/PROJECT_STRUCTURE.md)
 * [Releases](/RELEASES.md)
+
+# Credits
+Forked from Bakken & Bæck https://github.com/bakkenbaeck/iOS-playbook
+To be modified and updated to our needs.
